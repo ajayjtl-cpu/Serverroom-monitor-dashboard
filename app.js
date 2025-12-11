@@ -20,7 +20,7 @@ const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxaeJpEi_jMtJ
 //   UTC+8 (Singapore): UTC_OFFSET_HOURS = 8
 //   UTC-5 (USA Eastern): UTC_OFFSET_HOURS = -5
 //   UTC+0 (GMT): UTC_OFFSET_HOURS = 0
-const UTC_OFFSET_HOURS = 6; // Change this to your timezone offset
+const UTC_OFFSET_HOURS = 5.5; // Change this to your timezone offset
 
 // Data refresh interval in milliseconds (60 seconds = 60000 ms)
 const REFRESH_INTERVAL = 60000;
