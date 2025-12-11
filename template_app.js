@@ -10,7 +10,7 @@
 // ============================================================================
 
 // Replace this with the URL of your deployed Google Apps Script Web App
-const GOOGLE_SCRIPT_URL = "YOUR_GOOGLE_APPS_SCRIPT_URL";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/u/0/home/projects/1AdVMI-fYsgasPP2ytkmtCa5OFAwU-D8ZGPP0vZgSV7gfzave6mK9teRT/edit";
 
 // TIMEZONE CONFIGURATION - IMPORTANT!
 // Set this to your local timezone offset from UTC
